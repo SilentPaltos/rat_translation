@@ -1,0 +1,13 @@
+{
+	"pack":{
+		"pack_format": 34,
+		"description": "Добавляет новый шуточный перевод на русский"
+	},
+	"language": {
+		"rat": {
+			"name": "Крысиный перевод",
+			"region": "Где?",
+			"bidirectional": false
+		}
+	}
+}
